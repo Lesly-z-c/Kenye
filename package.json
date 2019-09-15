@@ -1,0 +1,28 @@
+{
+  "name": "kanye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev" : "next",
+    "build" : "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lesly-z-c/Kanye-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lesly-z-c/Kanye-rest/issues"
+  },
+  "homepage": "https://github.com/Lesly-z-c/Kanye-rest#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
